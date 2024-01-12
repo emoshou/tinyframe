@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![logo](https://github.com/emoshou/tinyframe/blob/main/repodata/logo.png)
+![logo](/repodata/logo.png)
 
 tinyFrame is a modular tooling framing system focused on ease of manufacture, reusability and accuracy.
 </div>
@@ -20,18 +20,18 @@ Free to use. Improves over time with contribution.
 # Example
 Frame members (T230-X-X) are joined together by connectors (CX-X-X) and adapters (M1-X-X). Below is 1 x 1 x 1 frame.
 
-![1](https://github.com/emoshou/tinyframe/blob/main/repodata/SS1.png)
+![1](/repodata/SS1.png)
 
 
 This example frame is stored in the assemblies folder. Use [Ondsel](www.ondsel.com) (a free CAD software) to open it.
 
 Slice and print individual parts in the right quantities to make the frame on a 3D printer.
 
-![sample frame](https://github.com/emoshou/tinyframe/blob/main/repodata/SS2.png)
+![sample frame](/repodata/SS2.png)
 
 Break apart and use these parts to create the frame you designed. Save your parts for later - they're interchangeable and can be easily reused. In the below example, roughly 22 feet was printed in a single Bambu P1P print bed with one 1 kg spool of filament.
 
-![printed parts](https://github.com/emoshou/tinyframe/blob/main/repodata/SS3.png)
+![printed parts](/repodata/SS3.png)
 
 # Getting Started
 TBD.
