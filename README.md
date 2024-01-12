@@ -1,17 +1,19 @@
 # tinyFrame
 <div align="center">
+
 ![logo](repodata/logo.png)
+
 tinyFrame is a modular tooling framing system focused on ease of manufacture, reusability and accuracy.
 </div>
 
-## Modular, Customizable and Open Source Tooling
-### Cost effective
+# Modular, Customizable and Open Source Tooling
+## Cost effective
 At $1/foot, this system is more afforadble than PVC tubing.
-### Accurate
+## Accurate
 Modern 3D printers such as the Bambu P1P can hit roughly 250 micron of profile and positional tolerance.
-### Customizable
+## Customizable
 CAD is provided and users can model and customize their designs before manufacture.
-### Open Source
+## Open Source
 Free to use. Improves over time with contribution.
 
 # Example
